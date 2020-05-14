@@ -11,4 +11,4 @@ if you face any problem, then create a issue in the repo or Contact instructor
 
 
 ## Syallabus
-<a href="https://github.com/Niranjan2054/basic-php-training/blob/master/basic-php-training-syallabus.pdf">IDetail Syallabus Here</a>
+<a href="https://github.com/Niranjan2054/basic-php-training/blob/master/basic-php-training-syallabus.pdf">Detail Syallabus Here</a>
