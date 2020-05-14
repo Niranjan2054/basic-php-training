@@ -5,7 +5,7 @@ All the code written during the training will be posted here
 
 if you face any problem, then create a issue in the repo or Contact instructor
 
-
+## installation procedure
 <a href="https://github.com/Niranjan2054/basic-php-training/blob/master/installation%20for%20windows.pdf">Installation procedure for windows</a><br>
 <a href="https://github.com/Niranjan2054/basic-php-training/blob/master/installation%20for%20linux.pdf">Installation procedure for Linux</a>
 
