@@ -12,3 +12,11 @@ if you face any problem, then create a issue in the repo or Contact instructor
 
 ## Syallabus
 <a href="https://github.com/Niranjan2054/basic-php-training/blob/master/basic-php-training-syallabus.pdf">Detail Syallabus Here</a>
+
+## Resources
+[php Overview](https://github.com/Niranjan2054/basic-php-training/blob/master/Basic%20php%20training.pptx)
+
+
+## Code is available Here...
+[Day 1 ](https://github.com/Niranjan2054/basic-php-training/blob/master/index.php)
+
