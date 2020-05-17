@@ -19,9 +19,13 @@ if you face any problem, then create a issue in the repo or Contact instructor
 ## Resources
 [php Overview](https://github.com/Niranjan2054/basic-php-training/blob/master/Basic%20php%20training.pptx)
 
+[OOP](https://github.com/Niranjan2054/basic-php-training/blob/master/Object%20Oriented%20Programing.pptx)
+
 
 ## Code is available Here...
 [Day 1 ](https://github.com/Niranjan2054/basic-php-training/blob/master/index.php)
 
 [Day 2](https://github.com/Niranjan2054/basic-php-training/tree/master/day%202)
+
+[Day 3](https://github.com/Niranjan2054/basic-php-training/tree/master/day%203)
 
