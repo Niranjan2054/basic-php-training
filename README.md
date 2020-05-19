@@ -25,8 +25,10 @@ if you face any problem, then create a issue in the repo or Contact instructor
 
 [FrontEnd](https://github.com/Niranjan2054/basic-php-training/tree/master/frontend)
 
+[Git](https://github.com/Niranjan2054/basic-php-training/blob/master/Git.pptx)
+
 ## Code is available Here...
-[Day 1 ](https://github.com/Niranjan2054/basic-php-training/blob/master/index.php)
+[Day 1 ](https://github.com/Niranjan2054/basic-php-training/tree/master/day%201)
 
 [Day 2](https://github.com/Niranjan2054/basic-php-training/tree/master/day%202)
 
@@ -34,3 +36,4 @@ if you face any problem, then create a issue in the repo or Contact instructor
 
 [Day 4](https://github.com/Niranjan2054/basic-php-training/tree/master/day%204)
 
+[Day 5](https://github.com/Niranjan2054/basic-php-training/tree/master/day%205)
